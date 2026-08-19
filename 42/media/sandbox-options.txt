@@ -1,0 +1,29 @@
+VERSION = 1,
+
+option KnoxWildlifeBobcat.Enabled
+{
+    type = boolean,
+    default = true,
+    page = KnoxWildlifeAnimals,
+    translation = KnoxWildlifeBobcat_Enabled,
+}
+
+option KnoxWildlifeBobcat.Routes
+{
+    type = enum,
+    numValues = 5,
+    default = 3,
+    page = KnoxWildlifeAnimals,
+    translation = KnoxWildlifeBobcat_Routes,
+    valueTranslation = KnoxWildlifeBobcat_Scale,
+}
+
+option KnoxWildlifeBobcat.GroupSize
+{
+    type = enum,
+    numValues = 5,
+    default = 3,
+    page = KnoxWildlifeAnimals,
+    translation = KnoxWildlifeBobcat_GroupSize,
+    valueTranslation = KnoxWildlifeBobcat_Scale,
+}

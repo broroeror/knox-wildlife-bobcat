@@ -1,0 +1,92 @@
+module Base
+{
+    sound KWC_BobcatAdult_Idle
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_BobcatAdult_Idle.ogg,
+            distanceMax = 110,
+        }
+        clip
+        {
+            file = media/sound/KWC_BobcatAdult_Idle2.ogg,
+            distanceMax = 110,
+        }
+        clip
+        {
+            file = media/sound/KWC_BobcatAdult_Idle3.ogg,
+            distanceMax = 110,
+        }
+    }
+
+    sound KWC_BobcatAdult_Stressed
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_BobcatAdult_Stressed.ogg,
+            distanceMax = 110,
+        }
+    }
+
+    sound KWC_BobcatAdult_Pain
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_BobcatAdult_Pain.ogg,
+            distanceMax = 110,
+        }
+    }
+
+    sound KWC_BobcatAdult_Death
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_BobcatAdult_Death.ogg,
+            distanceMax = 110,
+        }
+    }
+
+    sound KWC_BobcatBaby_Idle
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_BobcatBaby_Idle.ogg,
+            distanceMax = 70,
+        }
+    }
+
+    sound KWC_BobcatBaby_Stressed
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_BobcatBaby_Stressed.ogg,
+            distanceMax = 70,
+        }
+    }
+
+    sound KWC_BobcatBaby_Pain
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_BobcatBaby_Pain.ogg,
+            distanceMax = 70,
+        }
+    }
+
+    sound KWC_BobcatBaby_Death
+    {
+        category = Animals,
+        clip
+        {
+            file = media/sound/KWC_BobcatBaby_Death.ogg,
+            distanceMax = 70,
+        }
+    }
+}
