@@ -153,9 +153,9 @@ local function define(id, src, model, minSize, maxSize, minWeight, maxWeight, ma
     return a;
 end
 
-define(BABY,   babySrc,  "KWC_BobcatKitten", 0.827, 1.418, 0.5, 3.0, false, babyBreeds);
-define(FEMALE, adultSrc, "KWC_Bobcat", 1.674, 1.97, 5.0, 10.0, false, nil);
-define(MALE,   adultSrc, "KWC_Bobcat", 1.97, 2.403, 8.0, 14.0, true,  nil);
+define(BABY,   babySrc,  "KWC_BobcatKitten", 0.328, 0.567, 0.5, 3.0, false, babyBreeds);
+define(FEMALE, adultSrc, "KWC_Bobcat", 0.717, 0.821, 5.0, 10.0, false, nil);
+define(MALE,   adultSrc, "KWC_Bobcat", 0.791, 0.911, 8.0, 14.0, true,  nil);
 
 -- Breeding pairs, and what a newborn is. Set AFTER all three exist so the ids
 -- resolve.
