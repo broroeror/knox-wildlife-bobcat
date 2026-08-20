@@ -1,5 +1,5 @@
-name=Knox Wildlife: Bobcat
-id=KnoxWildlifeBobcat
+name=KnoxLife: Bobcats
+id=KnoxLifeBobcats
 description=Bobcat: deep cover and forest interior, avoiding open ground and people rather than exploiting them. Built on a vanilla animal skeleton so it uses the game's own animation set, and placed on habitat baked for it rather than borrowed from another animal. REQUIRES Knox Wildlife.
 require=KnoxLife
 modversion=0.1.0

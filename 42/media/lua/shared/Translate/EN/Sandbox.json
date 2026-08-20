@@ -1,13 +1,13 @@
 {
-    "Sandbox_KnoxWildlifeBobcat_Enabled": "Bobcats: add them to the world",
-    "Sandbox_KnoxWildlifeBobcat_Enabled_tooltip": "Bobcat: deep cover and forest interior, avoiding open ground and people rather than exploiting them. Turn this off to leave bobcats out entirely: their routes are then not placed at all, and nothing else changes, because each species has its own target and none of them share a pool.",
-    "Sandbox_KnoxWildlifeBobcat_Routes": "Bobcats: number of groups",
-    "Sandbox_KnoxWildlifeBobcat_Routes_tooltip": "Multiplies this species' population, on top of Wildlife density. This is the setting that changes how many bobcats actually exist. Does nothing unless bobcats are turned on above.",
-    "Sandbox_KnoxWildlifeBobcat_GroupSize": "Bobcats: animals per group",
-    "Sandbox_KnoxWildlifeBobcat_GroupSize_tooltip": "Multiplies the size of each bobcat group, on top of Group size. This does NOT change how many bobcats exist: the group count is divided to match, so you meet the same animals gathered into fewer, larger groups.",
-    "Sandbox_KnoxWildlifeBobcat_Scale_option1": "1/4x",
-    "Sandbox_KnoxWildlifeBobcat_Scale_option2": "1/2x",
-    "Sandbox_KnoxWildlifeBobcat_Scale_option3": "Normal",
-    "Sandbox_KnoxWildlifeBobcat_Scale_option4": "1.5x",
-    "Sandbox_KnoxWildlifeBobcat_Scale_option5": "2x"
+    "Sandbox_KnoxLifeBobcats_Enabled": "Bobcats: add them to the world",
+    "Sandbox_KnoxLifeBobcats_Enabled_tooltip": "Bobcat: deep cover and forest interior, avoiding open ground and people rather than exploiting them. Turn this off to leave bobcats out entirely: their routes are then not placed at all, and nothing else changes, because each species has its own target and none of them share a pool.",
+    "Sandbox_KnoxLifeBobcats_Routes": "Bobcats: number of groups",
+    "Sandbox_KnoxLifeBobcats_Routes_tooltip": "Multiplies this species' population, on top of Wildlife density. This is the setting that changes how many bobcats actually exist. Does nothing unless bobcats are turned on above.",
+    "Sandbox_KnoxLifeBobcats_GroupSize": "Bobcats: animals per group",
+    "Sandbox_KnoxLifeBobcats_GroupSize_tooltip": "Multiplies the size of each bobcat group, on top of Group size. This does NOT change how many bobcats exist: the group count is divided to match, so you meet the same animals gathered into fewer, larger groups.",
+    "Sandbox_KnoxLifeBobcats_Scale_option1": "1/4x",
+    "Sandbox_KnoxLifeBobcats_Scale_option2": "1/2x",
+    "Sandbox_KnoxLifeBobcats_Scale_option3": "Normal",
+    "Sandbox_KnoxLifeBobcats_Scale_option4": "1.5x",
+    "Sandbox_KnoxLifeBobcats_Scale_option5": "2x"
 }
