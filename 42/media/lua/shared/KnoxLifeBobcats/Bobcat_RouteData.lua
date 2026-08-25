@@ -3,12 +3,12 @@
 -- tools/split_critters.py. Rebake with:
 --
 --   python3 tools/gen_routes.py \
---       --profile-file mods/KnoxWildlifeBobcat/habitats.json \
---       --profiles kwc_bobcat --var KnoxWildlifeBobcat.Routes --register \
---       --out mods/KnoxWildlifeBobcat/42/media/lua/shared/KnoxWildlifeBobcat/Bobcat_RouteData.lua
+--       --profile-file mods/KnoxLifeBobcats/habitats.json \
+--       --profiles kwc_bobcat --var KnoxLifeBobcats.Routes --register \
+--       --out mods/KnoxLifeBobcats/42/media/lua/shared/KnoxLifeBobcats/Bobcat_RouteData.lua
 
-KnoxWildlifeBobcat = KnoxWildlifeBobcat or {}
-KnoxWildlifeBobcat.Routes = {
+KnoxLifeBobcats = KnoxLifeBobcats or {}
+KnoxLifeBobcats.Routes = {
     kwc_bobcat = {
         {
             score = 1.4649,
@@ -2437,11 +2437,11 @@ KnoxWildlifeBobcat.Routes = {
     },
 }
 
--- Hand the pool to Knox Wildlife. Guarded because a user
+-- Hand the pool to Knox Life. Guarded because a user
 -- can disable the base mod and leave this one enabled, and a
 -- silent no-op reads better than a stack trace on their screen.
 if KnoxLife and KnoxLife.registerRoutePool then
-    for name, pool in pairs(KnoxWildlifeBobcat.Routes) do
+    for name, pool in pairs(KnoxLifeBobcats.Routes) do
         KnoxLife.registerRoutePool(name, pool)
     end
 end

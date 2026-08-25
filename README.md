@@ -1,8 +1,8 @@
-# Knox Wildlife: Bobcat
+# KnoxLife: Bobcats
 
 Bobcat for Project Zomboid (build 42): deep cover and forest interior, avoiding open ground and people rather than exploiting them.
 
-A species addon for [Knox Wildlife](https://github.com/broroeror/knox-wildlife),
+A species addon for [KnoxLife](https://github.com/broroeror/knoxlife),
 which it requires. The base mod owns the migration routes and the population
 model; this addon ships the bobcat itself — model, textures, sounds, and its
 habitat registration. Built on a vanilla animal skeleton so it uses the game's
@@ -17,7 +17,7 @@ to find. Details in CREDITS.md.
 
 ## Settings
 
-On the **Knox Wildlife: Animals** sandbox page:
+On the **KnoxLife: Animals** sandbox page:
 
 - **add them to the world** — turn the species off and its routes are simply
   not placed; no other animal gains or loses anything;

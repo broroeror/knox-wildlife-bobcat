@@ -1,8 +1,8 @@
 name=KnoxLife: Bobcats
 id=KnoxLifeBobcats
-description=Bobcat: deep cover and forest interior, avoiding open ground and people rather than exploiting them. Built on a vanilla animal skeleton so it uses the game's own animation set, and placed on habitat baked for it rather than borrowed from another animal. REQUIRES Knox Wildlife.
+description=Bobcat: deep cover and forest interior, avoiding open ground and people rather than exploiting them. Built on a vanilla animal skeleton so it uses the game's own animation set, and placed on habitat baked for it rather than borrowed from another animal. REQUIRES KnoxLife.
 require=KnoxLife
 modversion=0.1.0
 versionMin=42.16
 icon=icon.png
-url=https://github.com/broroeror/knox-wildlife-bobcat
+url=https://github.com/broroeror/knoxlife-bobcat
