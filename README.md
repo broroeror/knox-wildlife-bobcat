@@ -8,9 +8,12 @@ model; this addon ships the bobcat itself — model, textures, sounds, and its
 habitat registration. Built on a vanilla animal skeleton so it uses the game's
 own animation sets.
 
-One honest footnote: the voice is a caracal, not a bobcat — bobcats are
-largely silent and usable recordings are nearly impossible to find. Details in
-CREDITS.md.
+One honest footnote on the voice: the angry sounds are a real bobcat, a caged
+and thoroughly unhappy one. The calm ones are a domestic cat, pitched down —
+which is a closer match than it sounds, since a bobcat is *Lynx rufus*, a small
+cat whose resting vocabulary really is close to a house cat's. Bobcats are
+largely silent in the wild and relaxed recordings of them are nearly impossible
+to find. Details in CREDITS.md.
 
 ## Settings
 
